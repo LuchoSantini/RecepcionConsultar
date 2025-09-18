@@ -197,7 +197,7 @@ export default function Employee({ title = "Acceso por QR" }) {
               </Stack>
 
               {alert && (
-                <Alert severity={alert.severity} sx={{ width: "91.3%" }}>
+                <Alert severity={alert.severity} sx={{ width: "91%" }}>
                   {alert.message}
                 </Alert>
               )}
