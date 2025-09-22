@@ -1,19 +1,20 @@
-🛎️ Sistema de Recepción Web
+# 🛎️ Sistema de Recepción Web
 
-Sistema simple de recepción donde los usuarios ingresan sus últimso 4 dígitos del DNI y se notifica al recepcionista en tiempo real.
+Sistema simple de recepción donde los usuarios ingresan los **últimos 4 dígitos del DNI** y se notifica al recepcionista en tiempo real.
 
-🧱 Stack
+---
 
-Frontend: React + Vite
+## 🧱 Stack Tecnológico
 
-Backend: ASP.NET Core Web API (.NET 8)
+- **Frontend:** React + Vite  
+- **Backend:** ASP.NET Core Web API (.NET 8)  
+- **Base de datos:** SQLite (embebida)
 
-Base de datos: SQLite
+---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-Panel de recepcionista en tiempo real
-
-API REST
-
-DB embebida (SQLite)
+- 🧾 Ingreso de visitante por los últimos 4 dígitos del DNI  
+- 👀 Panel de recepcionista en tiempo real  
+- 🔌 API RESTful  
+- 💾 Base de datos liviana y sin servidor (SQLite)
