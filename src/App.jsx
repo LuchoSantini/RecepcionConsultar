@@ -8,10 +8,7 @@ function App() {
     <Box>
       <BrowserRouter>
         <Routes>
-          {/* Ruta por defecto: Employee */}
           <Route path="/" element={<Employee />} />
-
-          {/* Ruta para Recepcionist */}
           <Route
             path="/recepcion"
             element={
