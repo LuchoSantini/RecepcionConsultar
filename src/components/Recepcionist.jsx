@@ -92,7 +92,7 @@ const Recepcionist = () => {
     lastPendingIds.current = currentIds;
   };
 
-  // 👇 Acción cuando el usuario confirma aprobar o denegar
+  // Acción cuando el usuario confirma aprobar o denegar
   const handleConfirmAction = async () => {
     const { action, id } = confirmDialog;
     setConfirmDialog({ ...confirmDialog, open: false });
