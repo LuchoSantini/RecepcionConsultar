@@ -6,7 +6,7 @@ Sistema simple de recepción donde los usuarios ingresan los **últimos 4 dígit
 
 ## 🧱 Stack Tecnológico
 
-- **Frontend:** ReactJS
+- **Frontend:** ReactJSX
 - **Backend:** ASP.NET Core Web API (.NET 8)
 - **Base de datos:** SQLite (embebida)
 
