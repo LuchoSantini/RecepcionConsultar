@@ -6,15 +6,15 @@ Sistema simple de recepción donde los usuarios ingresan los **últimos 4 dígit
 
 ## 🧱 Stack Tecnológico
 
-- **Frontend:** React + Vite  
-- **Backend:** ASP.NET Core Web API (.NET 8)  
+- **Frontend:** ReactJS
+- **Backend:** ASP.NET Core Web API (.NET 8)
 - **Base de datos:** SQLite (embebida)
 
 ---
 
 ## 🚀 Funcionalidades
 
-- 🧾 Ingreso de visitante por los últimos 4 dígitos del DNI  
-- 👀 Panel de recepcionista en tiempo real  
-- 🔌 API RESTful  
+- 🧾 Ingreso de visitante por los últimos 4 dígitos del DNI
+- 👀 Panel de recepcionista en tiempo real
+- 🔌 API RESTful
 - 💾 Base de datos liviana y sin servidor (SQLite)
